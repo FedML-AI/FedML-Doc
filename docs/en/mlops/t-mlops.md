@@ -6,7 +6,7 @@ FedML MLOps Platform simplifies the workflow of federated learning anywhere at a
 It enables zero-code, lightweight, cross-platform, and provably secure federated learning.
 It enables machine learning from decentralized data at various users/silos/edge nodes, without the need to centralize any data to the cloud, hence providing maximum privacy and efficiency.
 
-![](/images/MLOps.png)
+![](/image/MLOps.png)
 
 The above figure shows the workflow. Such a workflow is handled by web UI without the need to handle complex deployment. Check the following live demo for details:
 
