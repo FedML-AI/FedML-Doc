@@ -1,12 +1,12 @@
 # Table of contents
 
 * [starter](README.md)
+  * [Getting Started](starter/getting\_started.md)
   * [Concepts](starter/concepts.md)
   * [Application Ecosystem](starter/ecosystem.md)
   * [Learning FedML with Examples](starter/examples.md)
   * [FedML FAQ](starter/faq.md)
-  * [Getting Started](starter/getting\_started.md)
-  * [installation](starter/installation.md)
+  * [Installation](starter/installation.md)
   * [Mission](starter/mission.md)
   * [FedML MLOps Video Tutorial](starter/mlops\_video.md)
   * [Open Source Code Architecture](starter/oss\_code\_architecture.md)
