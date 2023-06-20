@@ -3,7 +3,7 @@
 Thank you for visiting! Here is a quick tour of FedML Open Source Library ([https://github.com/FedML-AI/FedML](https://github.com/FedML-AI/FedML)) and MLOps Platform ([https://open.fedml.ai](https://open.fedml.ai)) with examples for different scenarios. 
 
 ## **FedML Feature Overview**
-![image](/image/4animals.png)
+<img src="/image/4animals.png" />
 
 The FedML logo reflects the mission of FedML Inc. We aim to build simple and versatile APIs for machine learning running anywhere and at any scale.
 In other words, FedML supports both federated learning for data silos and distributed training for acceleration with MLOps and Open Source support, covering both cutting-edge academia research and industrial grade use cases. 
@@ -37,7 +37,7 @@ For more installation methods, please refer to [installing FedML](./installation
 In general, FedML source code architecture follows the paper which won the [Best Paper Award at NeurIPS 2020 (FL workshop)](https://chaoyanghe.com/wp-content/uploads/2021/02/NeurIPS-SpicyFL-2020-Baidu-best-paper-award-He-v2.pdf). Its original idea is presented at the live [video](https://www.youtube.com/watch?v=93SETZGZMyI) and 
 [white paper](https://arxiv.org/abs/2007.13518) by FedML co-founder Dr. [Chaoyang He](https://chaoyanghe.com). 
 
-![FedML Code Architecture](/image/fedml.png)
+<img src="/image/fedml.png" />
 
 As of March 2022, FedML has been made into an AI company which aims to provide machine learning capability from anywhere and at any scale. The python version of FedML [https://github.com/FedML-AI/FedML/tree/master/python](https://github.com/FedML-AI/FedML/tree/master/python) is now reorganized as follows:
 
