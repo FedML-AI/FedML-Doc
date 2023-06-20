@@ -8,6 +8,7 @@ import {
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
+    base: process.env.DOC_BASE as `/${string}/` || '/',
     lang: 'en',
     title: 'Welcome to FedML!',
     description: 'Thank you for visiting our site. This documentation provides you with everything you need to know about using the FedML platform.',
