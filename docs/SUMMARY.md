@@ -111,7 +111,7 @@
   * [FedML BeeHive API Reference](cross-device/api.md)
   * [FedML Beehive Examples](cross-device/examples.md)
   * [FedML Beehive User Guide](cross-device/user\_guide.md)
-  * [examples](cross-device/examples-1/README.md)
+  * [📽 Examples](cross-device/examples-1/README.md)
     * [Federated Learning on Android Smartphones](cross-device/examples/cross\_device\_android\_example.md)
 * [cross-silo](cross-silo/README.md)
   * [FedML Octopus API Reference](cross-silo/api.md)
