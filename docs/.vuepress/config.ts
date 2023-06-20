@@ -8,6 +8,7 @@ import {
     sidebarEs
 } from './configs'
 import { searchPlugin } from '@vuepress/plugin-search'
+import { commentPlugin } from "vuepress-plugin-comment2";
 
 export default defineUserConfig({
     base: '/FedML-Doc/',
@@ -33,9 +34,15 @@ export default defineUserConfig({
     },
     plugins: [
         searchPlugin(),
+        commentPlugin({
+            provider: "Giscus",
+        }),
     ],
     theme: defaultTheme({
         editLink: true,
+        repo: 'FedML-AI/FedML-Doc',
+        docsDir: 'docs',
+        home: '/starter/getting_started',
         locales: {
             /**
                * English locale config

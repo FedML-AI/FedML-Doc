@@ -15,6 +15,7 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.50.0",
     "@vuepress/client": "2.0.0-beta.63",
+    "@vuepress/theme-default": "2.0.0-beta.63",
     "eslint": "^8.0.1",
     "eslint-config-standard-with-typescript": "^35.0.0",
     "eslint-plugin-import": "^2.25.2",
@@ -29,7 +30,7 @@
     "@vuepress/core": "^1.9.9",
     "@vuepress/plugin-docsearch": "2.0.0-alpha.1",
     "@vuepress/plugin-search": "2.0.0-beta.63",
-    "@vuepress/theme-default": "2.0.0-beta.63",
-    "@vuepress/types": "^1.9.9"
+    "@vuepress/types": "^1.9.9",
+    "vuepress-plugin-comment2": "2.0.0-beta.226"
   }
 }
