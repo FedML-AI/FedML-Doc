@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-bb2a86aa","path":"/es/starter/faq.html","title":"FedML FAQ","lang":"es","frontmatter":{},"headers":[],"git":{"updatedTime":1687227619000,"contributors":[{"name":"zhouLion","email":"zhouquan147369@gmail.com","commits":1}]},"filePathRelative":"es/starter/faq.md"}');export{a as data};

@@ -1,0 +1,1 @@
+import{_ as c,o as s,c as t,a as e,b as a}from"./app-7ac5536a.js";const o={},r=e("h1",{id:"cross-device",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#cross-device","aria-hidden":"true"},"#"),a(" cross-device")],-1),d=[r];function n(i,_){return s(),t("div",null,d)}const l=c(o,[["render",n],["__file","index.html.vue"]]);export{l as default};

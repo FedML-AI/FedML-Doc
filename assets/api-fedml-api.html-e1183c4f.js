@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bb660b02","path":"/es/api_doc/api-fedml-api.html","title":"FedML APIs (high-level)","lang":"es","frontmatter":{},"headers":[],"git":{"updatedTime":1687227619000,"contributors":[{"name":"zhouLion","email":"zhouquan147369@gmail.com","commits":1}]},"filePathRelative":"es/api_doc/api-fedml-api.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as s,o,c,a as e,b as t}from"./app-7ac5536a.js";const a={},r=e("h1",{id:"cross-silo",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#cross-silo","aria-hidden":"true"},"#"),t(" cross-silo")],-1),n=[r];function i(_,d){return o(),c("div",null,n)}const h=s(a,[["render",i],["__file","index.html.vue"]]);export{h as default};

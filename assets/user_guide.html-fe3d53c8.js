@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-234caa6d","path":"/es/cross-device/user_guide.html","title":"FedML Beehive User Guide","lang":"es","frontmatter":{},"headers":[],"git":{"updatedTime":1687227619000,"contributors":[{"name":"zhouLion","email":"zhouquan147369@gmail.com","commits":1}]},"filePathRelative":"es/cross-device/user_guide.md"}');export{e as data};

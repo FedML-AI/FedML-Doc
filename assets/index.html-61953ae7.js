@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as t,a as e,b as o}from"./app-7ac5536a.js";const d={},n=e("h1",{id:"api-doc",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#api-doc","aria-hidden":"true"},"#"),o(" api_doc")],-1),r=[n];function s(_,i){return c(),t("div",null,r)}const l=a(d,[["render",s],["__file","index.html.vue"]]);export{l as default};

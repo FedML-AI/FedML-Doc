@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-422b5684","path":"/cn/cross-silo/","title":"cross-silo","lang":"cn","frontmatter":{},"headers":[],"git":{"updatedTime":1687247455000,"contributors":[{"name":"gitbook-bot","email":"ghost@gitbook.com","commits":1}]},"filePathRelative":"cn/cross-silo/README.md"}');export{t as data};

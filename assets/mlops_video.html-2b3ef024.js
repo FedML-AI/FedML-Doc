@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-016ecc7a","path":"/starter/mlops_video.html","title":"FedML MLOps Video Tutorial","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":1687227619000,"contributors":[{"name":"zhouLion","email":"zhouquan147369@gmail.com","commits":1}]},"filePathRelative":"starter/mlops_video.md"}');export{e as data};

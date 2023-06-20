@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-316f5538","path":"/distributed/api.html","title":"FedML Cheetah API Reference","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":1687227619000,"contributors":[{"name":"zhouLion","email":"zhouquan147369@gmail.com","commits":1}]},"filePathRelative":"distributed/api.md"}');export{e as data};

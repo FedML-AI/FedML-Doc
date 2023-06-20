@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f6bd5c9a","path":"/cross-device/","title":"cross-device","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":1687247455000,"contributors":[{"name":"gitbook-bot","email":"ghost@gitbook.com","commits":1}]},"filePathRelative":"cross-device/README.md"}');export{e as data};

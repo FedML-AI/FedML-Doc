@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c3f310f8","path":"/es/mlops/","title":"mlops","lang":"es","frontmatter":{},"headers":[],"git":{"updatedTime":1687247455000,"contributors":[{"name":"gitbook-bot","email":"ghost@gitbook.com","commits":1}]},"filePathRelative":"es/mlops/README.md"}');export{t as data};

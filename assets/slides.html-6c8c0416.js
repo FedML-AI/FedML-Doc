@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,a as e,b as c}from"./app-7ac5536a.js";const d={},o=e("h1",{id:"slides",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#slides","aria-hidden":"true"},"#"),c(" Slides")],-1),r=[o];function i(n,_){return t(),a("div",null,r)}const h=s(d,[["render",i],["__file","slides.html.vue"]]);export{h as default};

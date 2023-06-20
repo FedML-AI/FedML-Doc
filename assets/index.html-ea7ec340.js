@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3404e6f6","path":"/cn/benchmark/fedgraphnn-1/","title":"fedgraphnn","lang":"cn","frontmatter":{},"headers":[],"git":{"updatedTime":1687247455000,"contributors":[{"name":"gitbook-bot","email":"ghost@gitbook.com","commits":1}]},"filePathRelative":"cn/benchmark/fedgraphnn-1/README.md"}');export{e as data};

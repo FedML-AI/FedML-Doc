@@ -1,0 +1,1 @@
+import{_ as a,o as n,c as t,a as e,b as r}from"./app-7ac5536a.js";const c={},d=e("h1",{id:"fedgraphnn",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#fedgraphnn","aria-hidden":"true"},"#"),r(" fedgraphnn")],-1),o=[d];function s(_,h){return n(),t("div",null,o)}const f=a(c,[["render",s],["__file","index.html.vue"]]);export{f as default};

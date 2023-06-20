@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e1363d42","path":"/es/simulation/api.html","title":"FedML Parrot API Reference","lang":"es","frontmatter":{},"headers":[],"git":{"updatedTime":1687227619000,"contributors":[{"name":"zhouLion","email":"zhouquan147369@gmail.com","commits":1}]},"filePathRelative":"es/simulation/api.md"}');export{e as data};
