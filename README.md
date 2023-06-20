@@ -13,43 +13,43 @@ FedML, Inc. (https://fedml.ai) enables people and/or organizations to have AI ca
 This documentation is organized in the following sections:
 
 - **Overview**
-   - [Getting Started](docs/en/starter/getting_started.md)
-   - [Installation](docs/en/starter/installation.md)
-   - [Mission](docs/en/starter/mission.md)
-   - [Overview](docs/en/starter/overview.md)
-   - [Ecosystem](docs/en/starter/ecosystem.md)
-   - [Oss Code Architecture](docs/en/starter/oss_code_architecture.md)
-   - [Mlops Video](docs/en/starter/mlops_video.md)
-   - [FAQ](docs/en/starter/faq.md)
+   - [Getting Started](docs/starter/getting_started.md)
+   - [Installation](docs/starter/installation.md)
+   - [Mission](docs/starter/mission.md)
+   - [Overview](docs/starter/overview.md)
+   - [Ecosystem](docs/starter/ecosystem.md)
+   - [Oss Code Architecture](docs/starter/oss_code_architecture.md)
+   - [Mlops Video](docs/starter/mlops_video.md)
+   - [FAQ](docs/starter/faq.md)
 - **FedML MLOps** - Landing FedML into Reality
-   - [Mlops Video](docs/en/starter/mlops_video.md)
-   - [User Guide](docs/en/mlops/user_guide.md)
-   - [Examples](docs/en/mlops/examples.md)
-   - [FAQ](docs/en/mlops/faq.md)
-   - [API](docs/en/mlops/api.md)
+   - [Mlops Video](docs/starter/mlops_video.md)
+   - [User Guide](docs/mlops/user_guide.md)
+   - [Examples](docs/mlops/examples.md)
+   - [FAQ](docs/mlops/faq.md)
+   - [API](docs/mlops/api.md)
 - **FedML Parrot** - Simulating the Real World
-   - [User Guide](docs/en/simulation/user_guide.md)
-   - [Examples](docs/en/simulation/examples.md)
-   - [FAQ](docs/en/simulation/faq.md)
-   - [API](docs/en/simulation/api.md)
+   - [User Guide](docs/simulation/user_guide.md)
+   - [Examples](docs/simulation/examples.md)
+   - [FAQ](docs/simulation/faq.md)
+   - [API](docs/simulation/api.md)
 - **FedML Octopus**  - Simple Connector for Data Silos
-   - [User Guide](docs/en/cross-silo/user_guide.md)
-   - [Examples](docs/en/cross-silo/examples.md)
-   - [FAQ](docs/en/cross-silo/faq.md)
-   - [API](docs/en/cross-silo/api.md)
+   - [User Guide](docs/cross-silo/user_guide.md)
+   - [Examples](docs/cross-silo/examples.md)
+   - [FAQ](docs/cross-silo/faq.md)
+   - [API](docs/cross-silo/api.md)
 - **FedML BeeHive** - Collaborative Learning on Smartphones/IoTs
-   - [User Guide](docs/en/cross-device/user_guide.md)
-   - [Examples](docs/en/cross-device/examples.md)
-   - [FAQ](docs/en/cross-device/faq.md)
-   - [API](docs/en/cross-device/api.md)
+   - [User Guide](docs/cross-device/user_guide.md)
+   - [Examples](docs/cross-device/examples.md)
+   - [FAQ](docs/cross-device/faq.md)
+   - [API](docs/cross-device/api.md)
 - **FedML Cheetah** - Speedy Training of Large Models
-   - [User Guide](docs/en/distributed/user_guide.md)
+   - [User Guide](docs/distributed/user_guide.md)
 - **FedML Benchmarks** Benchmarks for FedNLP, FedCV, FedGraphNN and FedIoT
-   - [Benchmark FedGrapHNN](docs/en/benchmark/fedgraphnn.md)
+   - [Benchmark FedGrapHNN](docs/benchmark/fedgraphnn.md)
 - **Resources** 
-   - [Papers](docs/en/resources/papers.md)
-   - [Video](docs/en/resources/video.md)
-   - [Community](docs/en/resources/community.md)
+   - [Papers](docs/resources/papers.md)
+   - [Video](docs/resources/video.md)
+   - [Community](docs/resources/community.md)
 
 - - -
 

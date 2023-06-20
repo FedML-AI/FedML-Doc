@@ -4,52 +4,52 @@ import type { NavbarConfig } from '@vuepress/theme-default'
 export const navbarEn: NavbarConfig = [
   {
     text: 'Get Started',
-    link: '/en/starter/getting_started',
+    link: '/starter/getting_started',
   },
   {
     text: 'API',
-    link: '/en/api_doc/api-core.md',
+    link: '/api_doc/api-core.md',
   },
   {
     text: 'User Guide',
     children: [
       {
         text: 'MLOps',
-        link: '/en/mlops/user_guide.md',
+        link: '/mlops/user_guide.md',
       },
       {
         text: 'Cross Silo',
-        link: '/en/cross-silo/user_guide.md',
+        link: '/cross-silo/user_guide.md',
       },
       {
         text: 'Cross Device',
-        link: '/en/cross-device/user_guide.md',
+        link: '/cross-device/user_guide.md',
       },
       {
         text: 'Simulation',
-        link: '/en/simulation/user_guide.md',
+        link: '/simulation/user_guide.md',
       },
       {
         text: 'FedML Cheetah',
-        link: '/en/cheetah/user_guide.md',
+        link: '/cheetah/user_guide.md',
       },
       {
         text: 'FedML Spider',
-        link: '/en/spider/user_guide.md',
+        link: '/spider/user_guide.md',
       },
       {
         text: 'Benchmark',
-        link: '/en/benchmark/fedgraphnn.md',
+        link: '/benchmark/fedgraphnn.md',
       }
     ],
   },
   {
     text: 'Resources',
     children: [
-      '/en/resources/papers.md',
-      '/en/resources/slides.md',
-      '/en/resources/video.md',
-      '/en/resources/community.md',
+      '/resources/papers.md',
+      '/resources/slides.md',
+      '/resources/video.md',
+      '/resources/community.md',
     ],
   },
   {

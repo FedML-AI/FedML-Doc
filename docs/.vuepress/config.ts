@@ -3,17 +3,19 @@ import {
     navbarEn,
     sidebarEn,
     navbarCn,
-    sidebarCn
+    sidebarCn,
+    navbarEs,
+    sidebarEs
 } from './configs'
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
-    base: process.env.DOC_BASE as `/${string}/` || '/',
+    base: '/FedML-Doc/',
     lang: 'en',
     title: 'Welcome to FedML!',
     description: 'Thank you for visiting our site. This documentation provides you with everything you need to know about using the FedML platform.',
     locales: {
-        '/en/': {
+        '/': {
             lang: 'en',
             title: 'Welcome to FedML',
             description: 'Thank you for visiting our site. This documentation provides you with everything you need to know about using the FedML platform.',
@@ -41,12 +43,12 @@ export default defineUserConfig({
                * As the default locale of @vuepress/theme-default is English,
                * we don't need to set all of the locale fields
                */
-            '/en/': {
+            '/': {
                 // navbar
                 navbar: navbarEn,
                 // sidebar
                 sidebar: sidebarEn,
-                home: '/en/',
+                home: '/starter/getting_started',
                 // page meta
                 editLinkText: 'Edit this page on GitHub',
             },
@@ -55,6 +57,7 @@ export default defineUserConfig({
              * Chinese locale config
              */
             '/cn/': {
+                home: '/cn/starter/getting_started',
                 // navbar
                 navbar: navbarCn,
                 selectLanguageName: '简体中文',
@@ -82,6 +85,22 @@ export default defineUserConfig({
                 openInNewWindow: '在新窗口打开',
                 toggleColorMode: '切换颜色模式',
                 toggleSidebar: '切换侧边栏',
+            },
+
+            /**
+             * English locale config
+             *
+             * As the default locale of @vuepress/theme-default is English,
+             * we don't need to set all of the locale fields
+             */
+            '/es/': {
+                // navbar
+                navbar: navbarEs,
+                // sidebar
+                sidebar: sidebarEs,
+                home: '/starter/getting_started',
+                // page meta
+                editLinkText: 'Edit this page on GitHub',
             },
         }
     }),

@@ -3,7 +3,7 @@ import type { NavbarConfig } from '@vuepress/theme-default'
 
 export const navbarCn: NavbarConfig = [
   {
-    text: 'Get Started',
+    text: '入门',
     link: '/cn/starter/getting_started',
   },
   {
@@ -11,7 +11,7 @@ export const navbarCn: NavbarConfig = [
     link: '/cn/api_doc/api-core.md',
   },
   {
-    text: 'User Guide',
+    text: '用户指南',
     children: [
       {
         text: 'MLOps',
@@ -44,7 +44,7 @@ export const navbarCn: NavbarConfig = [
     ],
   },
   {
-    text: 'Resources',
+    text: '资源',
     children: [
       '/cn/resources/papers.md',
       '/cn/resources/slides.md',
