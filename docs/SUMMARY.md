@@ -1,7 +1,7 @@
 # Table of contents
 
 * [starter](README.md)
-  * [Getting Started](starter/getting\_started.md)
+  * [▶ Getting Started](starter/getting\_started.md)
   * [Concepts](starter/concepts.md)
   * [Application Ecosystem](starter/ecosystem.md)
   * [Learning FedML with Examples](starter/examples.md)
