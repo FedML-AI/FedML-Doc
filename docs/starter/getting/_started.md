@@ -3,7 +3,7 @@
 Thank you for visiting! Here is a quick tour of FedML Open Source Library ([https://github.com/FedML-AI/FedML](https://github.com/FedML-AI/FedML)) and MLOps Platform ([https://open.fedml.ai](https://open.fedml.ai)) with examples for different scenarios. 
 
 ## **FedML Feature Overview**
-![image](../../_static/image/4animals.png)
+<img src="/image/4animals.png"/>
 
 The FedML logo reflects the mission of FedML Inc. We aim to build simple and versatile APIs for machine learning running anywhere and at any scale.
 In other words, FedML supports both federated learning for data silos and distributed training for acceleration with MLOps and Open Source support, covering both cutting-edge academia research and industrial grade use cases. 
@@ -33,7 +33,7 @@ For more installation methods, please refer to [installing FedML](./installation
 In general, FedML source code architecture follows the paper which won the [Best Paper Award at NeurIPS 2020 (FL workshop)](https://chaoyanghe.com/wp-content/uploads/2021/02/NeurIPS-SpicyFL-2020-Baidu-best-paper-award-He-v2.pdf). Its original idea is presented at the live [video](https://www.youtube.com/watch?v=93SETZGZMyI) and 
 [white paper](https://arxiv.org/abs/2007.13518) by FedML co-founder Dr. [Chaoyang He](https://chaoyanghe.com). 
 
-![FedML Code Architecture](../_static/image/fedml.png)
+<img src="/image/fedml.png"/>
 
 As of March 2022, FedML has been made into an AI company which aims to provide machine learning capability from anywhere and at any scale. The python version of FedML [https://github.com/FedML-AI/FedML/tree/master/python](https://github.com/FedML-AI/FedML/tree/master/python) is now reorganized as follows:
 
@@ -65,7 +65,7 @@ Other low-level APIs related to security and privacy are also supported. All alg
 ### Simplified APIs
 
 
-<img src="../_static/image/apioverview.jpg" alt="drawing" style="width:60%;"/> 
+<img src="/image/apioverview.jpg" alt="drawing" style="width:60%;"/> 
 <br />
 
 
@@ -224,12 +224,12 @@ The FedML MLOps Platform simplifies the workflow of federated learning from anyw
 It enables zero-code, lightweight, cross-platform, and provably secure federated learning.
 It enables machine learning from decentralized data at various users/silos/edge nodes, without the need to centralize any data to the cloud, hence providing maximum privacy and efficiency.
 
-![image](../../_static/image/mlops_workflow.png)
+<img src="/image/mlops_workflow.png"/>
 
 
 The above figure shows the workflow, which is handled by a web UI that avoids using complex deployment. Check out the following live demo for details:
 
-![image](../_static/image/mlops_invite.png)
+<img src="/image/mlops_invite.png"/>
 
 3-Minute Introduction: [https://www.youtube.com/watch?v=E1k05jd1Tyw](https://www.youtube.com/watch?v=E1k05jd1Tyw)
 
@@ -249,7 +249,7 @@ Detailed guidance for the MLOps can be found at [FedML MLOps User Guide](./../ml
 ```
 
 ### Ecosystem
-<img src="../_static/image/started_ecosystem.png" alt="drawing" style="width:100%;"/> 
+<img src="image/started_ecosystem.png" alt="drawing" style="width:100%;"/> 
 
 The FedML Ecosystem facilitates federated learning research and productization in diverse application domains. With the foundational support from FedML Core Framework, it supports FedNLP (Natural Language Processing), FedCV (Computer Vision), FedGraphNN (Graph Neural Networks), and FedIoT (Internet of Things).
 Please read this guidance for details: [https://doc.fedml.ai/starter/ecosystem.html](https://doc.fedml.ai/starter/ecosystem.html)
@@ -278,7 +278,7 @@ Please check out [the full publication list](./../resources/papers.md) for detai
 
 - Join our Slack:
 
-<img src="./../_static/image/slack_logo.png" alt="drawing" style="width:200px;"/> 
+<img src="/image/slack_logo.png" alt="drawing" style="width:200px;"/> 
 <br />
 
 [https://join.slack.com/t/fedml/shared_invite/zt-havwx1ee-a1xfOUrATNfc9DFqU~r34w](https://join.slack.com/t/fedml/shared_invite/zt-havwx1ee-a1xfOUrATNfc9DFqU~r34w)
@@ -287,7 +287,7 @@ Please check out [the full publication list](./../resources/papers.md) for detai
 
 Our WeChat group has 200+ members. Please add the following account and ask for an invitation to join. 
 
-<img src="./../_static/image/wechat.jpeg" alt="drawing" style="width:200px;"/>
+<img src="/image/wechat.jpeg" alt="drawing" style="width:200px;"/>
 
 ### FAQ
 
