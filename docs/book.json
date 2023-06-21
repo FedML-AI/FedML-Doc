@@ -44,7 +44,7 @@
             "elements": [".gitbook-link"]
         },
         "insert-logo":{
-            "url":"./image/fedml_logo_light.png",
+            "url":"/image/fedml_logo_light.png",
             "style":"background:none;max-height:100px"
         },
         "tbfed-pagefooter": {
