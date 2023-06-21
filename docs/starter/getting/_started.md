@@ -249,7 +249,7 @@ Detailed guidance for the MLOps can be found at [FedML MLOps User Guide](./../ml
 ```
 
 ### Ecosystem
-<img src="image/started_ecosystem.png" alt="drawing" style="width:100%;"/> 
+<img src="./../../image/started_ecosystem.png" alt="drawing" style="width:100%;"/> 
 
 The FedML Ecosystem facilitates federated learning research and productization in diverse application domains. With the foundational support from FedML Core Framework, it supports FedNLP (Natural Language Processing), FedCV (Computer Vision), FedGraphNN (Graph Neural Networks), and FedIoT (Internet of Things).
 Please read this guidance for details: [https://doc.fedml.ai/starter/ecosystem.html](https://doc.fedml.ai/starter/ecosystem.html)
